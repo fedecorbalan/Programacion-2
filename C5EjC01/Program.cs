@@ -13,7 +13,7 @@ internal class Program
         Jugador jugador5 = new Jugador(142,"Jugador5",1,920);
         Jugador jugador6 = new Jugador(234,"Jugador6",12,2);
 
-        equipo = equipo + jugador1; // Agregar jugador1 al equipo
+        equipo = equipo + jugador1; // Agregar jugador al equipo
         equipo = equipo + jugador2;
         equipo = equipo + jugador3;
         equipo = equipo + jugador4;
